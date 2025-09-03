@@ -12,5 +12,6 @@ gsap.to(".box", {
     ease: 'power2.inOut',
     yoyo: true,
     repeat: -1,
-    repeatDelay: 0.2
+    repeatDelay: 0.2,
+    
 });
